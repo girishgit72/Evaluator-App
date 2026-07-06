@@ -1,0 +1,6 @@
+{
+  "name": "Descriptive Answer Evaluator",
+  "description": "An automated evaluation system for descriptive examination answers that compares student responses with model answers using semantic similarity and AI criteria scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
